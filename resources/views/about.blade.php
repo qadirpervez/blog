@@ -79,9 +79,9 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Welcome Everyone!
+                    About Me!
                 </div>
-                <p>This is the beginning of my laravel journey</p>
+                <p>I like to make Web Apps!</p>
 
 
             </div>
