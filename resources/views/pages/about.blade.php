@@ -1,4 +1,5 @@
 @extends('main')
+@section('title', '- About Page')
 @section('content')
 
       <div class="row">
